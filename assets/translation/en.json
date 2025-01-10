@@ -168,6 +168,104 @@
     "DESCRIPTION": " By participating in the academic mobility program, you have the opportunity not only to gain new knowledge experience but also to make a significant contribution to the development of international cooperation at KazNITU. Start your journey to educational heights today!"
   },
 
+  "INTERNATIONAL-PROGRAM": [
+    {
+      "image_university": "assets/img/program/international-programs/Frame1.png",
+      "name_university": "PENN STATE: THE PENNSYLVANIA STATE UNIVERSITY",
+      "uni_subtitle": "Study Format: 3+1",
+      "uni_description": "The program, developed by Satbayev University and Penn State, offers students from Satbayev University the opportunity to study in the \"3+1\" format. During the first three years, students complete their undergraduate studies at Satbayev University. In the fourth year, students transfer to Penn State, and upon completion, they receive a bachelor's degree from Satbayev University in their major and a Master of Laws degree in their chosen specialization from Penn State.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Cybersecurity Geology, Materials Science, Petroleum Engineering span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at Penn State during the fourth year: <br />Penn State provides a grant that partially or fully covers tuition fees for the fourth year. The decision on the amount of coverage is made by the Penn State admissions committee after an interview with the student</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame2.png",
+      "name_university": "SUNGKYUNKWAN <br />UNIVERSITY",
+      "uni_subtitle": "Study Format: 3+1+1.5",
+      "uni_description": "The program, developed by Satbayev University and SKKU, offers students from Satbayev University the opportunity to study in the \"3+1+1.5\" format. During the first three years, complete their undergraduate studies at Satbayev University. In the fourth year, students transfer to SKKU, and upon completion, they receive a bachelor's degree from Satbayev University in their major and a Master degree in their chosen specialization from SKKU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Civil Engineering, Social Sciences, Artificial Intelligence</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at SKKU during the fourth year:<br />SKKU provides a grant that partially or fully covers tuition fees for the fourth year. The decision on the amount of coverage is made by the SKKU admissions committee after an interview with the student.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame3.png",
+      "name_university": "Study Format: Bachelor's Degree (2+2)",
+      "uni_subtitle": "Study Format: 3+1+1.5",
+      "uni_description": "The program, developed by Satbayev University and CITYU, offers students from Satbayev University the opportunity to study in the \"2+2\" format. During the first two years, students complete their undergraduate studies at Satbayev University. In the third year, students transfer to CITYU, and upon completion, they receive a bachelor's degree from Satbayev University in their bachelor's degree from in their chosen specialization from CITYU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Artificial Intelligence, Civil Engineering, Materials Science</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at CITYU during the third and fourth years:<br />Satbayev University provides a grant that fully covers tuition fees for the third and fourth year.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame5.png",
+      "name_university": "UNIVERSITY OF <br />GLASGOW",
+      "uni_subtitle": "Study Format: Master's Degree (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Mechanical Engineering + Management</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame6.png",
+      "name_university": "TOMSK POLYTECHNIC <br />UNIVERSITY",
+      "uni_subtitle": "Study Format: Master's Degree (1+1; Online)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Chemical Processes and Chemical Materials Production, Materials Science and New Materials Technology</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame7.png",
+      "name_university": "XI’AN RAILWAY VOCATIONAL AND TECHNICAL INSTITUTE",
+      "uni_subtitle": "Study Format: Bachelor's Degree (2+2)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Locomotive Production, Maintenance, and Operation Technology, Transportation Engineering, Digital Logistics</span>"
+    },
+
+    {
+      "image_university": "assets/img/program/international-programs/Frame8.png",
+      "name_university": "NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY MISIS",
+      "uni_subtitle": "Study Format: Master's Degree (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Extractive Metallurgy</span>"
+    }
+  ],
+
   "LIST_UNIVERSITY": {
     "TITLE": "Which countries and foreign universities does our university collaborate with?"
   },

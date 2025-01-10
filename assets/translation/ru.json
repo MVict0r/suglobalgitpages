@@ -168,6 +168,103 @@
     "DESCRIPTION": "Участвуя в программе академической мобильности, вы получаете возможность не только приобрести новые знания и опыт, но и внести значительный вклад в развитие международного сотрудничества в КазНИТУ. Начните свое путешествие к образовательным высотам уже сегодня!"
   },
 
+  "INTERNATIONAL-PROGRAM": [
+    {
+      "image_university": "assets/img/program/international-programs/Frame1.png",
+      "name_university": "PENN STATE: THE PENNSYLVANIA STATE UNIVERSITY",
+      "uni_subtitle": "Формат обучения: 3+1",
+      "uni_description": "Программа, разработанная Satbayev University и Penn State, предоставляет студентам Satbayev University возможность обучения в формате \"3+1\". Первые три года студенты проходят обучение в Satbayev University. На четвёртом году обучения студенты переходят в Penn State, где получают степень бакалавра Satbayev University по своей специальности и степень магистра права (Master of Laws) по выбранной специализации в Penn State.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Образовательные программы: <br /><span class=\"span-item-text\">Кибербезопасность, геология, материаловедение, нефтегазовое дело</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Процедура поступления: <br /><span class=\"span-item-text\">Процесс поступления включает подачу документов и собеседование с приёмной комиссией</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Дополнительные расходы: <br /><span class=\"span-item-text\">Студенты самостоятельно покрывают расходы на проезд, проживание и другие сопутствующие расходы</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Финансовые аспекты: <br /><span class=\"span-item-text\">Стоимость обучения в Penn State на четвёртом году: <br />Penn State предоставляет грант, частично или полностью покрывающий стоимость обучения на четвёртом году. Решение о размере покрытия принимается приёмной комиссией Penn State после собеседования с студентом</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame2.png",
+      "name_university": "SUNGKYUNKWAN <br />UNIVERSITY",
+      "uni_subtitle": "Формат обучения: 3+1+1.5",
+      "uni_description": "Программа, разработанная Satbayev University и SKKU, предоставляет студентам Satbayev University возможность обучения в формате \"3+1+1.5\". Первые три года студенты проходят обучение в Satbayev University. На четвёртом году обучения студенты переходят в SKKU, где получают степень бакалавра Satbayev University по своей специальности и степень магистра по выбранной специализации в SKKU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Образовательные программы: <br /><span class=\"span-item-text\">Гражданское строительство, социальные науки, искусственный интеллект</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Процедура поступления: <br /><span class=\"span-item-text\">Процесс поступления включает подачу документов и собеседование с приёмной комиссией</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Дополнительные расходы: <br /><span class=\"span-item-text\">Студенты самостоятельно покрывают расходы на проезд, проживание и другие сопутствующие расходы</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Финансовые аспекты: <br /><span class=\"span-item-text\">Стоимость обучения в SKKU на четвёртом году:<br />SKKU предоставляет грант, частично или полностью покрывающий стоимость обучения на четвёртом году. Решение о размере покрытия принимается приёмной комиссией SKKU после собеседования с студентом.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame3.png",
+      "name_university": "CITY UNIVERSITY",
+      "uni_subtitle": "Формат обучения: бакалавриат (2+2)",
+      "uni_description": "Программа, разработанная Satbayev University и CITYU, предоставляет студентам возможность обучения в формате \"2+2\". Первые два года студенты проходят обучение в Satbayev University. На третьем году обучения студенты переходят в CITYU, где получают степень бакалавра Satbayev University и степень бакалавра в выбранной специализации в CITYU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Образовательные программы: <br /><span class=\"span-item-text\">Искусственный интеллект, гражданское строительство, материаловедение</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Процедура поступления: <br /><span class=\"span-item-text\">Процесс поступления включает подачу документов и собеседование с приёмной комиссией</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Дополнительные расходы: <br /><span class=\"span-item-text\">Студенты самостоятельно покрывают расходы на проезд, проживание и другие сопутствующие расходы</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Финансовые аспекты: <br /><span class=\"span-item-text\">Стоимость обучения в CITYU на третьем и четвёртом годах:<br />Satbayev University предоставляет грант, полностью покрывающий стоимость обучения на третьем и четвёртом годах.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame5.png",
+      "name_university": "UNIVERSITY OF <br />GLASGOW",
+      "uni_subtitle": "Формат обучения: магистратура (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Образовательные программы: <br /><span class=\"span-item-text\">Машиностроение и менеджмент</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame6.png",
+      "name_university": "Томский Политехнический <br />Университет",
+      "uni_subtitle": "Формат обучения: магистратура (1+1; онлайн)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Образовательные программы: <br /><span class=\"span-item-text\">Технологии химических процессов и материалов, материаловедение и новые технологии</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame7.png",
+      "name_university": "Сианьский железнодорожный профессионально-технический институт",
+      "uni_subtitle": "Формат обучения: бакалавриат (2+2)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Образовательные программы: <br /><span class=\"span-item-text\">Производство, обслуживание и эксплуатация локомотивов, транспортная инженерия, цифровая логистика</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame8.png",
+      "name_university": "Национальный университет науки и технологий МИСиС",
+      "uni_subtitle": "Формат обучения: магистратура (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Образовательные программы: <br /><span class=\"span-item-text\">Металлургия</span>"
+    }
+  ],
+
   "LIST_UNIVERSITY": {
     "TITLE": "С какими странами и зарубежными университетами сотрудничает наш университет?"
   },

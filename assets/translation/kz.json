@@ -168,6 +168,103 @@
     "DESCRIPTION": "Академиялық мобильділік бағдарламасына қатысу арқылы сіз жаңа білім мен тәжірибе ғана емес, сонымен қатар ҚазҰТЗУ-дағы халықаралық ынтымақтастықты дамытуға елеулі үлес қоса аласыз. Білім шыңдарына жету саяхатыңызды бүгіннен бастаңыз!"
   },
 
+  "INTERNATIONAL-PROGRAM": [
+    {
+      "image_university": "assets/img/program/international-programs/Frame1.png",
+      "name_university": "PENN STATE: THE PENNSYLVANIA STATE UNIVERSITY",
+      "uni_subtitle": "Оқу форматы: 3+1",
+      "uni_description": "Satbayev University және Penn State бірлесіп жасаған бағдарлама Satbayev University студенттеріне \"3+1\" форматында оқуға мүмкіндік береді. Алғашқы үш жылда студенттер Satbayev University-де бакалавр дәрежесін алады. Төртінші жылы студенттер Penn State-ке ауысады және оқуды аяқтағаннан кейін өз мамандығы бойынша Satbayev University-ден бакалавр дәрежесін, сондай-ақ таңдалған сала бойынша Penn State-ден магистр дәрежесін алады.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Киберқауіпсіздік, Геология, Материалтану, Мұнай инженериясы</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қабылдау тәртібі: <br /><span class=\"span-item-text\">Бағдарламаға қабылдау құжаттарды тапсыруды және қабылдау комиссиясымен сұхбаттасуды қамтиды</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қосымша шығындар: <br /><span class=\"span-item-text\">Студенттер жол жүру, тұру және басқа шығындарды өздері төлейді</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Қаржылық аспектілер: <br /><span class=\"span-item-text\">Penn State-де төртінші жылдағы оқу ақысы: <br />Penn State студентпен сұхбаттасқаннан кейін оқу ақысының бөлігін немесе барлығын жабатын грант береді</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame2.png",
+      "name_university": "SUNGKYUNKWAN <br />UNIVERSITY",
+      "uni_subtitle": "Оқу форматы: 3+1+1.5",
+      "uni_description": "Satbayev University және SKKU бірлесіп жасаған бағдарлама Satbayev University студенттеріне \"3+1+1.5\" форматында оқуға мүмкіндік береді. Алғашқы үш жылда студенттер Satbayev University-де бакалавр дәрежесін алады. Төртінші жылы студенттер SKKU-ға ауысады және оқуды аяқтағаннан кейін өз мамандығы бойынша Satbayev University-ден бакалавр дәрежесін, сондай-ақ таңдалған сала бойынша SKKU-ден магистр дәрежесін алады.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Азаматтық құрылыс, Әлеуметтік ғылымдар, Жасанды интеллект</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қабылдау тәртібі: <br /><span class=\"span-item-text\">Бағдарламаға қабылдау құжаттарды тапсыруды және қабылдау комиссиясымен сұхбаттасуды қамтиды</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қосымша шығындар: <br /><span class=\"span-item-text\">Студенттер жол жүру, тұру және басқа шығындарды өздері төлейді</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Қаржылық аспектілер: <br /><span class=\"span-item-text\">SKKU-де төртінші жылдағы оқу ақысы: <br />SKKU студентпен сұхбаттасқаннан кейін оқу ақысының бөлігін немесе барлығын жабатын грант береді</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame3.png",
+      "name_university": "CITYU",
+      "uni_subtitle": "Оқу форматы: Бакалавриат (2+2)",
+      "uni_description": "Satbayev University және CITYU бірлесіп жасаған бағдарлама Satbayev University студенттеріне \"2+2\" форматында оқуға мүмкіндік береді. Алғашқы екі жылда студенттер Satbayev University-де бакалавр дәрежесін алады. Үшінші жылы студенттер CITYU-ға ауысады және оқуды аяқтағаннан кейін өз мамандығы бойынша Satbayev University-ден бакалавр дәрежесін, сондай-ақ CITYU-ден бакалавр дәрежесін алады.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Жасанды интеллект, Азаматтық құрылыс, Материалтану</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қабылдау тәртібі: <br /><span class=\"span-item-text\">Бағдарламаға қабылдау құжаттарды тапсыруды және қабылдау комиссиясымен сұхбаттасуды қамтиды</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Қосымша шығындар: <br /><span class=\"span-item-text\">Студенттер жол жүру, тұру және басқа шығындарды өздері төлейді</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Қаржылық аспектілер: <br /><span class=\"span-item-text\">CITYU-де үшінші және төртінші жылдардағы оқу ақысы: <br />Satbayev University үшінші және төртінші жылдардың оқу ақысын толықтай жабатын грант береді</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame5.png",
+      "name_university": "UNIVERSITY OF <br />GLASGOW",
+      "uni_subtitle": "Оқу форматы: Магистратура (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Машина жасау + Менеджмент</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame6.png",
+      "name_university": "TOMSK POLYTECHNIC <br />UNIVERSITY",
+      "uni_subtitle": "Оқу форматы: Магистратура (1+1; Онлайн)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Химиялық процестер және химиялық материалдар өндірісі, Материалтану және жаңа материалдар технологиясы</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame7.png",
+      "name_university": "XI’AN RAILWAY VOCATIONAL AND TECHNICAL INSTITUTE",
+      "uni_subtitle": "Оқу форматы: Бакалавриат (2+2)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Локомотив өндірісі, қызмет көрсету және пайдалану технологиясы, Көлік инженериясы, Цифрлық логистика</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame8.png",
+      "name_university": "NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY MISIS",
+      "uni_subtitle": "Оқу форматы: Магистратура (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Білім беру бағдарламалары: <br /><span class=\"span-item-text\">Металлургия өндірісі</span>"
+    }
+  ],
+
   "LIST_UNIVERSITY": {
     "TITLE": "Біздің университет қандай елдермен және шетелдік университеттермен серіктеседі?"
   },
