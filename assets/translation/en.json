@@ -90,6 +90,29 @@
     }
   },
 
+  "DIALOG": {
+    "TITLE": "Filling in the data",
+    "PROGRESS": "Process of filling in the data",
+    "NAME-LATIN": "Name in Latin",
+    "SURNAME-LATIN": "Surname in Latin",
+    "NAME-CYRILLIC": "Name in Cyrillic",
+    "SURNAME-CYRILLIC": "Surname in Cyrillic",
+    "PASSPORT": "Passport number",
+    "PASSPORT-FILE": "Upload passport in pdf",
+    "GPA": "GPA",
+    "GPA-FILE": "Upload transcript in pdf",
+    "LANGUAGE": "The language of instruction",
+    "LANGUAGE-EN": "English language",
+    "LANGUAGE-RU": "Russian language",
+    "LANGUAGE-LVL": "English language proficiency level",
+    "LANGUAGE-LVL-FILE": "Upload the certificate in pdf format",
+    "CV-FILE": "Upload CV in pdf",
+    "TYPE-FINANCE": "Types of financing",
+    "PHONE": "Mobile phone",
+    "EMAIL": "Email",
+    "SUBMIT": "Submit"
+  },
+
   "ACADEMIC_QA": {
     "TITLE": "Q&A",
     "QUESTIONS": [
