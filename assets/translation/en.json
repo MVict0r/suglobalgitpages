@@ -1,0 +1,454 @@
+{
+  "HEADER": {
+    "HOME": "Home",
+    "NEWS": "News",
+    "CONTACTS": "Contacts",
+    "APPLY_NOW": "Apply Now"
+  },
+
+  "FIRST_BLOCK": {
+    "TITLE": "International Cooperation Office",
+    "DESCRIPTION": "K.I.Satbayev Kazakh National Research Technical University",
+    "MORE_INFO": "More info"
+  },
+
+  "PROGRAMS": {
+    "academicMobility": {
+      "title": "Academic Mobility",
+      "title_program": "Academic Mobility",
+      "description": "Academic mobility is a unique opportunity for students of the Kazakh National Research Technical University named after K.I.Satbayev (KazNITU) to broaden their horizons and gain valuable international experience in education and research. This program opens doors to studying at leading universities in Kazakhstan and abroad, allowing you not only to master new disciplines but also to familiarize yourself with advanced educational practices, develop intercultural skills, and strengthen your professional network.",
+      "items": [
+        {
+          "icon": "assets/img/you-get/captive_portal.png",
+          "text": "International Experience and New Horizons"
+        },
+        {
+          "icon": "assets/img/you-get/trending_up.png",
+          "text": "Academic Growth and Broadening Perspectives"
+        },
+        {
+          "icon": "assets/img/you-get/emoji_language.png",
+          "text": "Cultural Enrichment and Intercultural Communication"
+        },
+        {
+          "icon": "assets/img/you-get/bolt.png",
+          "text": "Enhancing Competitiveness in the Global Market"
+        }
+      ]
+    },
+    "internationalPrograms": {
+      "title_btn": "International Programs",
+      "title_program": "International Programs",
+      "description": "The Kazakh National Research Technical University named after K.I.Satbayev (KazNITU) is pleased to invite international students to join our academic family. We offer a unique opportunity to receive a quality education at one of the leading technical universities in Central Asia.",
+      "items": [
+        {
+          "icon": "assets/img/you-get/captive_portal.png",
+          "text": "International Recognition and Career Prospects"
+        },
+        {
+          "icon": "assets/img/you-get/trending_up.png",
+          "text": "Innovative Research and Global Collaborations"
+        },
+        {
+          "icon": "assets/img/you-get/emoji_language.png",
+          "text": "Cultural Diversity and Intercultural Exchange"
+        },
+        {
+          "icon": "assets/img/you-get/bolt.png",
+          "text": "Modern Infrastructure and Comfortable Learning"
+        }
+      ]
+    },
+    "internationalStudents": {
+      "title_btn": "International Students",
+      "title_program": "Admission of International Students",
+      "description": "The Kazakh National Research Technical University named after K.I.Satbayev (KazNITU) is pleased to international students to join our academic family. We offer a unique opportunity to receive  a quality education at one of the leading technical universities in Central Asia.",
+      "items": [
+        {
+          "icon": "assets/img/you-get/captive_portal.png",
+          "text": "International Recognition and Career Prospects"
+        },
+        {
+          "icon": "assets/img/you-get/trending_up.png",
+          "text": "Innovative Research and Global Collaborations"
+        },
+        {
+          "icon": "assets/img/you-get/emoji_language.png",
+          "text": "Cultural Diversity and Intercultural Exchange"
+        },
+        {
+          "icon": "assets/img/you-get/bolt.png",
+          "text": "Modern Infrastructure and Comfortable Learning"
+        }
+      ]
+    },
+    "internationalProjects": {
+      "title_btn": "International Projects",
+      "title_program": "International Projects",
+      "description": "The Kazakh National Research Technical University named after K.I.Satbayev (KazNITU) is pleased to international students to join our academic family. We offer a unique opportunity to receive a quality education at one of the leading technical universities in Central Asia.",
+      "items": []
+    }
+  },
+
+  "DIALOG": {
+    "TITLE": "Filling in the data",
+    "PROGRESS": "Process of filling in the data",
+    "NAME-LATIN": "Name in Latin",
+    "SURNAME-LATIN": "Surname in Latin",
+    "NAME-CYRILLIC": "Name in Cyrillic",
+    "SURNAME-CYRILLIC": "Surname in Cyrillic",
+    "PASSPORT": "Passport number",
+    "PASSPORT-FILE": "Upload passport in pdf",
+    "GPA": "GPA",
+    "GPA-FILE": "Upload transcript in pdf",
+    "LANGUAGE": "The language of instruction",
+    "LANGUAGE-EN": "English language",
+    "LANGUAGE-RU": "Russian language",
+    "LANGUAGE-LVL": "English language proficiency level",
+    "LANGUAGE-LVL-FILE": "Upload the certificate in pdf format",
+    "CV-FILE": "Upload CV in pdf",
+    "TYPE-FINANCE": "Types of financing",
+    "PHONE": "Mobile phone",
+    "EMAIL": "Email",
+    "SUBMIT": "Submit"
+  },
+
+  "ACADEMIC_QA": {
+    "TITLE": "Q&A",
+    "QUESTIONS": [
+      {
+        "question": "Is it possible to move to another country without IELTS certificates, etc.?",
+        "answer": "Yes, you can go to study in the CIS countries, where subjects are taught in Russian, without an IELTS certificate. However, it is worth noting that currently all universities in the country are awaiting new selection rules from the Ministry of Education and Science of the Republic of Kazakhstan, which may change the requirements, including the possible exclusion of mandatory IELTS or TOEFL certificates. In this case, we will be able to send you without these certificates. However, much depends on the requirements of the host university, and in some cases it may request an internationally recognized certificate in English. In this case, alas, you cannot do without IELTS or TOEFL."
+      },
+      {
+        "question": "Which office should I contact about studying abroad?",
+        "answer": "All questions related to studying abroad can be asked in the International Cooperation department of Satbayev University, which is located in the Oil Building, on the 3rd floor, in room 302."
+      },
+      {
+        "question": "Is mobility possible if you study at the military department?",
+        "answer": "Yes, mobility is possible even if you study at the military department."
+      },
+      {
+        "question": "To travel to another country, what should be the GPA?",
+        "answer": "To participate in the academic mobility program, it is advisable to have a GPA of at least 3.0."
+      },
+      {
+        "question": "What academic mobility programs exist for the architecture specialty?",
+        "answer": "Academic mobility is available for all specialties, including architecture."
+      },
+      {
+        "question": "From which course can I go for academic mobility?",
+        "answer": "Students can participate in the mobility program starting from the 2nd year and up to the 3rd year inclusive."
+      },
+      {
+        "question": "Is it possible to apply for several universities from the list?",
+        "answer": "We nominate students alternately, and it is impossible to apply for several universities at the same time."
+      },
+      {
+        "question": "Is it possible to participate in the mobility program if I am a freshman?",
+        "answer": "Unfortunately, first-year students cannot participate in the academic mobility program. To participate, you must complete at least 1 semester and apply for a second year in the fall semester."
+      }
+    ]
+  },
+
+  "ACADEMIC_REQUIREMENTS": {
+    "TITLE": "General requirements for participation in academic mobility programs",
+    "CV": "CV (resume in English)",
+    "GPA": "GPA (at least 2.67)",
+    "TRANSCRIPT": "Transcript in English and Russian",
+    "ENGLISH_CERTIFICATE": "Documents confirming the level of knowledge of the English language. There must be at least IELTS 5.5 or a similar certificate of level B2 and higher (you can get a certificate from the Department of English)",
+    "PASSPORT": "A scanned copy of the passport"
+  },
+
+  "ACADEMIC_ADVANTAGES": {
+    "TITLE": "Advantages of Academic Mobility:",
+    "ITEMS": [
+      {
+        "NUMBER": "1",
+        "TITLE": "International experience",
+        "DESCRIPTION": "The opportunity to study at world-universities and interact with professors and students from countries."
+      },
+      {
+        "NUMBER": "2",
+        "TITLE": "Academic growth",
+        "DESCRIPTION": "Mastering new courses that may not be available at your home university, which will expand your educational and professional perspectives."
+      },
+      {
+        "NUMBER": "3",
+        "TITLE": "Cultural enrichment",
+        "DESCRIPTION": "Immersion in a new cultural environment, which fosters the development of intercultural communication understanding."
+      },
+      {
+        "NUMBER": "4",
+        "TITLE": "Enhancing Competitiveness",
+        "DESCRIPTION": "The knowledge and skills acquired will help you become more competitive in the job market, both in Kazakhstan and beyond."
+      }
+    ],
+    "INFO_TITLE": "How to Participate",
+    "INFO_DESCRIPTION": "To participate in the academic mobility program, you need to:",
+    "LIST_STEP1": "Familiarize yourself with available programs and partner universities",
+    "LIST_STEP2": "Submit an application",
+    "DESCRIPTION": " By participating in the academic mobility program, you have the opportunity not only to gain new knowledge experience but also to make a significant contribution to the development of international cooperation at KazNITU. Start your journey to educational heights today!"
+  },
+
+  "INTERNATIONAL-PROGRAM": [
+    {
+      "image_university": "assets/img/program/international-programs/Frame1.png",
+      "name_university": "PENN STATE: THE PENNSYLVANIA STATE UNIVERSITY",
+      "uni_subtitle": "Study Format: 3+1",
+      "uni_description": "The program, developed by Satbayev University and Penn State, offers students from Satbayev University the opportunity to study in the \"3+1\" format. During the first three years, students complete their undergraduate studies at Satbayev University. In the fourth year, students transfer to Penn State, and upon completion, they receive a bachelor's degree from Satbayev University in their major and a Master of Laws degree in their chosen specialization from Penn State.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Cybersecurity Geology, Materials Science, Petroleum Engineering span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at Penn State during the fourth year: <br />Penn State provides a grant that partially or fully covers tuition fees for the fourth year. The decision on the amount of coverage is made by the Penn State admissions committee after an interview with the student</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame2.png",
+      "name_university": "SUNGKYUNKWAN <br />UNIVERSITY",
+      "uni_subtitle": "Study Format: 3+1+1.5",
+      "uni_description": "The program, developed by Satbayev University and SKKU, offers students from Satbayev University the opportunity to study in the \"3+1+1.5\" format. During the first three years, complete their undergraduate studies at Satbayev University. In the fourth year, students transfer to SKKU, and upon completion, they receive a bachelor's degree from Satbayev University in their major and a Master degree in their chosen specialization from SKKU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Civil Engineering, Social Sciences, Artificial Intelligence</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at SKKU during the fourth year:<br />SKKU provides a grant that partially or fully covers tuition fees for the fourth year. The decision on the amount of coverage is made by the SKKU admissions committee after an interview with the student.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame3.png",
+      "name_university": "Study Format: Bachelor's Degree (2+2)",
+      "uni_subtitle": "Study Format: 3+1+1.5",
+      "uni_description": "The program, developed by Satbayev University and CITYU, offers students from Satbayev University the opportunity to study in the \"2+2\" format. During the first two years, students complete their undergraduate studies at Satbayev University. In the third year, students transfer to CITYU, and upon completion, they receive a bachelor's degree from Satbayev University in their bachelor's degree from in their chosen specialization from CITYU.",
+      "items": [
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Educational Programs: <br /><span class=\"span-item-text\">Artificial Intelligence, Civil Engineering, Materials Science</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Admission Procedure: <br /><span class=\"span-item-text\">The admission process for the program includes submitting documents and an interview with the admissions committee</span>"
+        },
+        {
+          "item_icon": "assets/img/program/international-programs/ico.png",
+          "item_description": "Additional expenses: <br /><span class=\"span-item-text\">Students are responsible for covering travel, accommodation, and other associated costs</span>"
+        }
+      ],
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Financial Aspects: <br /><span class=\"span-item-text\">Tuition at CITYU during the third and fourth years:<br />Satbayev University provides a grant that fully covers tuition fees for the third and fourth year.</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame5.png",
+      "name_university": "UNIVERSITY OF <br />GLASGOW",
+      "uni_subtitle": "Study Format: Master's Degree (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Mechanical Engineering + Management</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame6.png",
+      "name_university": "TOMSK POLYTECHNIC <br />UNIVERSITY",
+      "uni_subtitle": "Study Format: Master's Degree (1+1; Online)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Chemical Processes and Chemical Materials Production, Materials Science and New Materials Technology</span>"
+    },
+    {
+      "image_university": "assets/img/program/international-programs/Frame7.png",
+      "name_university": "XI’AN RAILWAY VOCATIONAL AND TECHNICAL INSTITUTE",
+      "uni_subtitle": "Study Format: Bachelor's Degree (2+2)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Locomotive Production, Maintenance, and Operation Technology, Transportation Engineering, Digital Logistics</span>"
+    },
+
+    {
+      "image_university": "assets/img/program/international-programs/Frame8.png",
+      "name_university": "NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY MISIS",
+      "uni_subtitle": "Study Format: Master's Degree (1+1)",
+      "item_icon": "assets/img/program/international-programs/ico.png",
+      "item_description_last": "Educational Programs: <br /><span class=\"span-item-text\"> Extractive Metallurgy</span>"
+    }
+  ],
+
+  "LIST_UNIVERSITY": {
+    "TITLE": "Which countries and foreign universities does our university collaborate with?"
+  },
+
+  "INTERNATIONAL-STUDENTS_ABOUT_KZ": {
+    "TITLE-1": "1. About Kazakhstan and Almaty city",
+    "DESCRIPTION-1": "<span>Kazakhstan</span> is a country in Central Asia and Eastern Europe, known for its vast territory, diverse landscapes, and rich cultural history. It shares borders with Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan. The country features steppes, deserts, mountains, and large lakes, such as the Caspian Sea (the largest enclosed inland body of water) and the Aral Sea (shared with Uzbekistan).Kazakhstan got its independence on 16 December, 1991. Kazakhstan is a multicultural country with more than 130 ethnic groups and nationalities including Kazakh, Russian, Korean, German, Ukrainian, Belarusian, Uzbek and others. Capital: The capital city is Astana, while Almaty is the largest city and a cultural hub.",
+    "DESCRIPTION-2": "<span>Almaty</span> is the largest city in Kazakhstan and its cultural, financial, and economic hub. Almaty is located in southeastern Kazakhstan near the foothills of the Trans-Ili Alatau mountains, part of the Tian Shan range. Green Spaces: Almaty is known for its parks, gardens, and tree-lined streets. Panfilov Park and the Kok-Tobe mountain are popular spots. Cultural Institutions: The city is home to theaters, museums, and art galleries, such as the Central State Museum and the Abai Opera and Ballet Theater. Population: Around 2 million people, making it the largest city in Kazakhstan. Vibe: Almaty has a cosmopolitan feel, with vibrant nightlife, diverse cuisine, and a mix of modern and traditional architecture.",
+    "TITLE-2": "2. About Office for foreign students at Satbayev University",
+    "DESCRIPTION-3": "The Office for foreign students provides with passport’s registration and visa support all foreign students enrolled to the study at Satbayev university. All foreign students in BS/MS/PhD programs have a study visa. Every year the number of international students increases, those who want to get an education at our university. At present we have more than 1500 international students. Geographically they are represented very widely: China, Bangladesh, Moldova, Egypt, Mongolia, Russia, Uzbekistan, Kyrgyzstan, India, Afghanistan, Turkey etc. The most students are provided with university dormitory which is located to Uni’s campus very closely. The foreign students actively take part in various educational, cultural, sports, and volunteer events of the university (some photos from International days and last anniversary events can be attached here)."
+  },
+
+  "INTERNATIONAL-STUDENTS_QA": {
+    "TITLE": "",
+    "QUESTIONS": [
+      {
+        "question": "How can we obtain a Kazakhstan study visa?",
+        "answer": "You have to email scan of your passport and form of invitation filled in by you to the Office for foreign students (a.kuatova@satbayev.university). It takes about 5 working days to get the reference number on the invitation-letter by the local migration police. The student can apply for study Kazakhstan visa based on the invitation-letter approved by KZ migration police in the country of residence. The study KZ visa is issued for one academic year."
+      },
+      {
+        "question": "Where and how can we register our passports?",
+        "answer": "Passports of international students have to be registered at Migration Police of Almaty. It is issued for one year and is extended annually during the whole period of study. The following documents have to be submitted for passport registration: <br/> •Passport in original <br/> •Copy of the page with Kazakhstani visa<br/> •Confirmation letter from the Office Registrar (year of study and Faculty)<br/> •Insurance certificate (not requested for the citizens of Russia, Kyrgyzstan and Belarus)"
+      },
+      {
+        "question": "Why do international students need registration?",
+        "answer": "They are obliged to register their passports in accordance with Regulations for foreign citizens’ stay on the territory of Kazakhstan within of 3 days upon the crossing the KZ border. If students do not follow these requirements Migration Police can fine or deport from the country."
+      },
+      {
+        "question": "Where can we be tested for AIDS?",
+        "answer": "You can be tested for AIDS and be issued a certificate at the following address: Bassenov street, 2. Please have a passport with you. Expiry date 3 months."
+      },
+      {
+        "question": "Where can we get the insurance certificate?",
+        "answer": "You can obtain the insurance by any insurance company in KZ (NOMAD, Interteach etc.)."
+      },
+      {
+        "question": "What is the cost of Kazakhstan study visa?",
+        "answer": "The multiple visa fee is 30 MCI (monthly calculation indicator)."
+      },
+      {
+        "question": "Is it possible to apply for several universities from the list?",
+        "answer": "We nominate students alternately, and it is impossible to apply for several universities at the same time."
+      },
+      {
+        "question": "How and where can we get the IIN number (individual identical number)?",
+        "answer": "You can apply for IIN in any TsON office (Public service center). Please have a notarized copy of your passport with translation into Kazakh or Russian with you."
+      }
+    ]
+  },
+
+  "INTERNATIONAL_PROJECTS": {
+    "PROJECT-NAME": "Project Name",
+    "PROGRAM": "Program",
+    "START": "Start and end date",
+    "PROJECT-EXECUTOR": "Project Executor",
+    "TABLE": [
+      {
+        "name": "Cultural and Natural Heritage in Kazakhstan: Pathways to Strengthen Protection in the Framework of the Project Description of the Global Centre for Spatial Methods for Sustainable Urban Development GCSMUS",
+        "program": "DAAD",
+        "date": "2022/2024",
+        "executor": "Institute of Project Management (Mendikulova G.M.)"
+      },
+      {
+        "name": "Increasing yields and climate resilience of staple food crops in Europe and Central Asia",
+        "program": "IAEA",
+        "date": "2022/2024",
+        "executor": "Institute of Geology and Petroleum Science named after. K. Turysova (Anapiyaev B.B.)"
+      },
+      {
+        "name": "Inter-university agreement on a double-degree program",
+        "program": "\"InterLinks: UK-Kazakhstan Small Grants Scheme for TNE Strategy Development\": GLASGOW University",
+        "date": "2023/2024",
+        "executor": "Institute of Geology and Petroleum Science named after. K. Turysova (Anapiyaev B.B.)"
+      },
+      {
+        "name": "Building Capacity in Higher Education (ERASMUS-EDU-2024-CBHE).",
+        "program": "ERASMUS +",
+        "date": "2024/2027",
+        "executor": "Institute of Project Management"
+      },
+      {
+        "name": "Opening of the educational trajectory \"Strategic Trade Control\" in OP 6B04103 Business Engineering \"Maste's program in eco-mining engineering and innovative management of natural resources (EMINReM)\"",
+        "program": "CAIDS",
+        "date": "2022/2023",
+        "executor": "Turegeldinova A.Zh."
+      },
+      {
+        "name": "Opening of the educational trajectory \"Strategic Trade Control\" in OP 6B04103 Business Engineering \"Master's program in eco-mining engineering and innovative management of natural resources (EMINReM)\"",
+        "program": "ERASMUS +",
+        "date": "2023/2026",
+        "executor": "Orynbasarova E.O"
+      }
+    ]
+  },
+
+  "CONTACTS": {
+    "TITLE": "Contacts",
+    "CONTACT": [
+      {
+        "image": "assets/img/contacts/image1.png",
+        "name": "Nurgul Nalgozhina",
+        "description": "Head of the International Cooperation Office, PhD",
+        "email": "n.nalgozhina&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image2.png",
+        "name": "Yerkebulan Kurymbay",
+        "description": "Deputy Head of the International Cooperation Office",
+        "email": "y.kurymbay&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image3.png",
+        "name": "Gulnaz Yergeshkyzy",
+        "description": "Head of the International Educational Programs Department",
+        "email": "g.yergeshkyzy&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image4.png",
+        "name": "Aikerim Omirzak",
+        "description": "Chief Manager of the International Educational Programs Department",
+        "email": "a.omirzak&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image5.png",
+        "name": "Aigul Kuatova",
+        "description": "Head of the Department for International Students Affairs",
+        "email": "a.kuatova&#64;satbayev.universit"
+      },
+
+      {
+        "image": "assets/img/contacts/image6.png",
+        "name": "Arman Arystanov",
+        "description": "Chief Specialist of the Department for International Students Affairs",
+        "email": "a.arystanov&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/noimage.png",
+        "name": "Nazgul Sembaeva",
+        "description": "Head of the Academic Mobility Department",
+        "email": "n.sembayeva&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image7.png",
+        "name": "Daryn Korpebayev",
+        "description": "Manager of the Academic Mobility Department",
+        "email": "d.korpebayev&#64;satbayev.university"
+      },
+
+      {
+        "image": "assets/img/contacts/image8.png",
+        "name": "Zhylzhas Bagdauletov",
+        "description": "Chief Manager of the Academic Mobility Department",
+        "email": "zh.bagdauletov&#64;satbayev.university"
+      }
+    ]
+  }
+}
