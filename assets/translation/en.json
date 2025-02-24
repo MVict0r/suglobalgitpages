@@ -6,6 +6,13 @@
     "APPLY_NOW": "Apply Now"
   },
 
+  "AUTH": {
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "SUBMIT": "Sign In",
+    "REGISTRATION": "Sign Up"
+  },
+
   "FIRST_BLOCK": {
     "TITLE": "International Cooperation Office",
     "DESCRIPTION": "K.I.Satbayev Kazakh National Research Technical University",
@@ -124,6 +131,11 @@
     "PHONE": "Mobile phone",
     "EMAIL": "Email",
     "SUBMIT": "Submit"
+  },
+
+  "NOTIFICATION": {
+    "SUCCESS": "Your data has been successfully sent!",
+    "ERROR": "An error occurred. Please try again."
   },
 
   "ACADEMIC_QA": {
