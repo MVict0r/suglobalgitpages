@@ -7,6 +7,8 @@
   },
 
   "AUTH": {
+    "NAME": "Name",
+    "SURNAME": "Surname",
     "EMAIL": "Email",
     "PASSWORD": "Password",
     "SUBMIT": "Sign In",
